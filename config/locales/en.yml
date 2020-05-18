@@ -178,6 +178,7 @@ en:
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
   bigbluebutton: BigBlueButton
+  knpl: KNPL
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
@@ -253,6 +254,7 @@ en:
     submit: Submit
   go_back: Go back
   greenlight: Greenlight
+  knpl_india: Live Class Solution By KNPL
   header:
     all_recordings: All Recordings
     dropdown:
@@ -276,8 +278,8 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} This is Introduction message about KNPLIndia, We can change it as we like"
-    welcome: Welcome to KNPLIndia.
+    about: Live Class Solution By KNPL
+    welcome: Welcome to KNPL India
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
