@@ -50,6 +50,8 @@ module Greenlight
     config.bigbluebutton_endpoint_default = "http://test-install.blindsidenetworks.com/bigbluebutton/api/"
     config.bigbluebutton_secret_default = "8cd8ef52e8e101574e400365b55e11a6"
 
+    #config.bigbluebutton_endpoint_default = "http://108.61.161.209/bigbluebutton/"
+    #config.bigbluebutton_secret_default = "6XRKhsqaQw8wUS4FUVocInYKescvWivSgS60BeOEvRg"
     # Use standalone BigBlueButton server.
     config.bigbluebutton_endpoint = if ENV["BIGBLUEBUTTON_ENDPOINT"].present?
        ENV["BIGBLUEBUTTON_ENDPOINT"]
